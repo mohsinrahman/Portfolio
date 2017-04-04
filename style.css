@@ -4,7 +4,7 @@ body{
   margin: 0px;
 }
 
-.portfolio-name{
+.portfolio-name, .portfolio-title{
   color:#ffffff;
   text-align:center;
 }
