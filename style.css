@@ -1,10 +1,10 @@
 body{
-  background-color: tomato;
+  background-color: tomato !important;
   padding: 0px;
   margin: 0px;
 }
 
 .portfolio-name, .portfolio-title, .portfolio-img, .portfolio-phone, .portfolio-email{
-  color: orange;
+  color: #ffffff;
   text-align:center;
 }
