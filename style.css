@@ -17,4 +17,8 @@ body{
   width: 150px;
   border-radius: 50%;
 }
+.panel-body{
+background-color: #42a8c0 !important;
+
+}
 
