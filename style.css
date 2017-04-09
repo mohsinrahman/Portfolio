@@ -4,6 +4,7 @@ body{
   font-family:  poppins;
   padding: 0px;
   margin: 0px;
+ font-size: 14px;
 }
 
 .portfolio-name, .portfolio-title, .portfolio-phone, .portfolio-email{
